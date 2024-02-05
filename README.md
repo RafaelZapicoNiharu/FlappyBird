@@ -16,19 +16,62 @@ Aqui você encontra as novidades e comunidade do nosso mod, embreve teremos um c
 ### 🕊 Twitter :  https://twitter.com/BrAestheticMod
 ### 📩 Discord: EM BREVE
 
+#
 
 <br>
 
 <div>
   <details open>
-    <summary><h1>PLantas, Árvores e Frutos🌱</h1></summary>
-
-    
-
-    
-
+    <summary><h1>Plantas, Árvores e Frutos 🌱</h1></summary>
+ 
+   
   </details>
 </div>
+
+
+
+<br>
+
+<div>
+  <details open>
+    <summary><h1>Decorações e móveis🔨</h1></summary>
+ 
+   
+  </details>
+</div>
+
+
+<br>
+
+<div>
+  <details open>
+    <summary><h1>Comidas e Bebidas 🥂</h1></summary>
+ 
+   
+  </details>
+</div>
+
+
+<br>
+
+<div>
+  <details open>
+    <summary><h1>Mobs 🐫</h1></summary>
+ 
+   
+  </details>
+</div>
+
+<br>
+
+<div>
+  <details open>
+    <summary><h1>Estruturas 🏚</h1></summary>
+ 
+   
+  </details>
+</div>
+
 
 
 
