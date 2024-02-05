@@ -66,7 +66,7 @@ Aqui você encontra as novidades e comunidade do nosso mod, embreve teremos um c
 
 <div>
   <details open>
-    <summary><h1>Mobs 🐫</h1></summary>
+    <summary><h1>Mobs e Trocas 🐫</h1></summary>
  
    
   </details>
@@ -76,7 +76,7 @@ Aqui você encontra as novidades e comunidade do nosso mod, embreve teremos um c
 
 <div>
   <details open>
-    <summary><h1>Estruturas 🏚</h1></summary>
+    <summary><h1>Estruturas e Biomas 🏚</h1></summary>
  
    
   </details>
