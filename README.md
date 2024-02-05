@@ -1,4 +1,4 @@
-![Developer-Banner](./aiai.png)
+![Developer-Banner](./taylor.png)
 <br>
 
 # Brazil Aesthetic Mod 🇧🇷
