@@ -28,6 +28,16 @@ Aqui você encontra as novidades e comunidade do nosso mod, embreve teremos um c
   </details>
 </div>
 
+<br>
+
+<div>
+  <details open>
+    <summary><h1>Armaduras e Acessórios 👖</h1></summary>
+ 
+   
+  </details>
+</div>
+
 
 
 <br>
