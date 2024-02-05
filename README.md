@@ -19,7 +19,16 @@ Aqui você encontra as novidades e comunidade do nosso mod, embreve teremos um c
 
 <br>
 
-<p >
+<div>
+  <details open>
+    <summary><h1>PLantas, Árvores e Frutos🌱</h1></summary>
 
-</p>
+    
+
+    
+
+  </details>
+</div>
+
+
 
