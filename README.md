@@ -7,6 +7,13 @@
  Brazil Aesthetic Mod é um mod feito por brasileiras que pretende adicionar o gostinho do nosso país ao Minecraft, essa é a nossa wiki e por aqui você poderá encontrar todas as informações necessárias do mod.
 </p>
 
+
+
+<b>Modrinth:</b> 
+
+<b>CurseForge:</b>
+
+
 <br>
 
 # Redes Sociais 📣
